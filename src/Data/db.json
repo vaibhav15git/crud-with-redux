@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "a",
+      "email": "a@gmail.com",
+      "phone": "112",
+      "role": "azaaz"
+    },
+    {
+      "name": "c",
+      "email": "a@gmail.com",
+      "phone": "21212",
+      "role": "c",
+      "id": 2
+    },
+    {
+      "name": "c",
+      "email": "c@gmail.com",
+      "phone": "1211212",
+      "role": "c",
+      "id": 3
+    },
+    {
+      "name": "d",
+      "email": "c@gmail.com",
+      "phone": "21212",
+      "role": "d",
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "a",
+      "email": "a@gmail.com",
+      "phone": "112",
+      "role": "azaaz"
+    },
+    {
+      "name": "c",
+      "email": "a@gmail.com",
+      "phone": "21212",
+      "role": "c",
+      "id": 7
+    }
+  ]
+}
